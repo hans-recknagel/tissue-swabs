@@ -1,0 +1,4 @@
+query,tissue database,referene genome
+unique hits across all loci,0.542,0.829
+unique hits in mapped loci,0.613,0.860
+total loci mapped,0.836,0.964
